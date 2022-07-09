@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myBilibili-api/myBilibili-api.iml" filepath="$PROJECT_DIR$/myBilibili-api/myBilibili-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myBilibili-core.iml" filepath="$PROJECT_DIR$/.idea/myBilibili-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBilibili-dao/myBilibili-dao.iml" filepath="$PROJECT_DIR$/myBilibili-dao/myBilibili-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBilibili-service/myBilibili-service.iml" filepath="$PROJECT_DIR$/myBilibili-service/myBilibili-service.iml" />
+    </modules>
+  </component>
+</project>
